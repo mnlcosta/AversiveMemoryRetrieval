@@ -1,4 +1,5 @@
-This repository contains the scripts to reproduce the main and supplementary results of the paper:
+This repository contains the scripts to reproduce the main and supplementary results of the paper: 
+
 ## Contents
 •	run01_Behaviour: Reproduces the behavioral results shown in Fig. 1.
 •	run02_TimeFreqAmygdalaStat: Reproduces the time-frequency results and statistics for patients with electrodes implanted in the amygdala (Fig. 2). Also produces results for Supplementary Fig. 4 (n = 17).
@@ -14,14 +15,11 @@ This repository contains the scripts to reproduce the main and supplementary res
 •	run04_EESERSamygdalagammarndnopeak: Performs a control analysis using random, non-peak selections, as reported in Supplementary Fig. 12.
 •	run04_EESERShippogammapeaks: Computes encoding-retrieval similarity using hippocampal encoding patterns around hippocampal gamma peaks, and tests for reactivation in the hippocampus at retrieval.
 •	run05_HippocampalERSusingmaxAHEES: Computes hippocampal gamma activity patterns at encoding that are most similar to amygdala emotional encoding activity, and tests for reactivation in the hippocampus during emotional retrieval.
+
 ## Data Access
-Due to size constraints, the data are not hosted in this repository.  
-You can access all data files through the following UPM Drive folder: 
-https://drive.upm.es/s/RygiPJJwaYBCAlf
+Due to size constraints, the data are not hosted in this repository. You can access all data files through the following UPM Drive folder: https://drive.upm.es/s/RygiPJJwaYBCAlf
 
 ## Requirements
-
 - MATLAB R2019b or later
-- FieldTrip toolbox 
+- FieldTrip toolbox
 - Custom functions included in ‘/utils’
-![image](https://github.com/user-attachments/assets/e84b8d55-aa7a-405d-a34c-9abfba30c2cf)
