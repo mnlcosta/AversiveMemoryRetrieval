@@ -17,7 +17,7 @@ This repository contains the scripts to reproduce the main and supplementary res
 •	run05_HippocampalERSusingmaxAHEES: Computes hippocampal gamma activity patterns at encoding that are most similar to amygdala emotional encoding activity, and tests for reactivation in the hippocampus during emotional retrieval.
 
 ## Data Access
-Due to size constraints, the data are not hosted in this repository. You can access all data files through the following UPM Drive folder: https://drive.upm.es/s/RygiPJJwaYBCAlf
+Due to size constraints, the data are not hosted in this repository. You can access all data files through the following UPM Drive folder: https://drive.upm.es/s/qq9kpFKmrdzAT9k
 
 ## Requirements
 - MATLAB R2019b or later
